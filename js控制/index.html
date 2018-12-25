@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>IFE JavaScript Task 01</title>
+    <link rel="stylesheet" href="css/index.css" />
+</head>
+<body>
+<fieldset id="form-gra-time">
+    <legend>请选择食堂</legend>
+    <div class="grade">
+        <label>
+            <span class="selected">日</span>
+            <input name="gra-time" value="day" type="radio" checked="checked">
+        </label>
+        <label>
+            <span>周</span>
+            <input name="gra-time" value="week" type="radio">
+        </label>
+        <label>
+            <span>月</span>
+            <input name="gra-time" value="month" type="radio">
+        </label>
+    </div>
+    <div class="select">
+        <select id="canteen-select">
+            <option>北苑</option>
+            <option>西苑</option>
+            <option>南苑</option>
+            <option>学苑</option>
+            <option>半亩园</option>
+            <option>三好坞</option>
+            <option>西北</option>
+        </select>
+    </div>
+</fieldset>
+
+<div id="aqi-chart-wrap">
+</div>
+<script src="js/task.js"></script>
+</body>
+</html>
