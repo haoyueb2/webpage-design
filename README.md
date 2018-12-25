@@ -1,11 +1,11 @@
 ## 1  页面控制
 ### 1.1页面效果截屏
-![image](image./1.1.png)
-![image](image./1.2.png)
-![image](image./1.3.png)
-![image](image./1.4.png)
-![image](image./1.5.png)
-![image](image./1.6.png)
+![image](./image/1.1.png)
+![image](./image/1.2.png)
+![image](./image/1.3.png)
+![image](./image/1.4.png)
+![image](./image/1.5.png)
+![image](./image/1.6.png)
 
 ### 1.2源代码
 ```html
@@ -148,7 +148,7 @@
 
 ## 2  CSS布局
 ### 2.1页面效果截屏
-![image](image./2.1.png)
+![image](./image/2.1.png)
 
 
 
@@ -445,28 +445,28 @@ footer{
 ```
 ## 3  多媒体设计与制作
 ### 3.1制作过程截屏
-![image](image./3.1.png)
-![image](image./3.2.png)
-![image](image./3.3.png)
-![image](image./3.4.png)
-![image](image./3.5.png)
-![image](image./3.6.png)
-![image](image./3.7.png)
-![image](image./3.8.png)
-![image](image./3.9.png)
+![image](./image/3.1.png)
+![image](./image/3.2.png)
+![image](./image/3.3.png)
+![image](./image/3.4.png)
+![image](./image/3.5.png)
+![image](./image/3.6.png)
+![image](./image/3.7.png)
+![image](./image/3.8.png)
+![image](./image/3.9.png)
 
 ## 4  JS控制
 ### 4.1页面效果截屏
-![image](image./4.0.png)
+![image](./image/4.0.png)
 
 
-![image](image./4.1.png)
+![image](./image/4.1.png)
 
 
-![image](image./4.2.png)
+![image](./image/4.2.png)
 
 
-![image](image./4.3.png)
+![image](./image/4.3.png)
 
 ### 4.2源代码
 #### javascript代码
@@ -719,11 +719,11 @@ select{
 ```
 ## 6  交互式网页中数据在数据库中的存取
 ### 6.1 页面效果截屏
-![image](image./6.1.png)
-![image](image./6.2.png)
-![image](image./6.3.png)
-![image](image./6.4.png)
-![image](image./6.5.png)
+![image](./image/6.1.png)
+![image](./image/6.2.png)
+![image](./image/6.3.png)
+![image](./image/6.4.png)
+![image](./image/6.5.png)
 
 ### 6.2源代码
 #### index.php
@@ -929,15 +929,15 @@ class Sphere extends Shape {
 ## 7  虚拟网站首页设计制作
 ### 7.1页面效果截屏
 #### 首页
-![image](image./7.1.png)
-![image](image./7.2.png)
-![image](image./7.3.png)
-![image](image./7.4.png)
+![image](./image/7.1.png)
+![image](./image/7.2.png)
+![image](./image/7.3.png)
+![image](./image/7.4.png)
 #### 场馆预定页面
-![image](image./7.11.png)
-![image](image./7.12.png)
+![image](./image/7.11.png)
+![image](./image/7.12.png)
 #### 寻找教练页面
-![image](image./7.21.png)
-![image](image./7.22.png)
+![image](./image/7.21.png)
+![image](./image/7.22.png)
 
 ### 7.2 网站的盈利模式与创新说明
